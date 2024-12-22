@@ -1,4 +1,4 @@
-# Titanic Machine Learning from Disaster - Analysis and Predictions with Random Forest Classifier
+# Titanic Data Analysis - Machine Learning from Disaster
 
 ## Getting Started
 Clone the repository and ensure that the correct packages are installed. This notebook requires
